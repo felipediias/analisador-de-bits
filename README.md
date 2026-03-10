@@ -1,1 +1,2 @@
+Analisador de bits
 Programa de análise de bits e verificação de paridade, desenvolvido em Assembly MIPS. O sistema recebe um número inteiro do usuário, identifica se ele é par ou ímpar e verifica o estado do 5º bit. Projeto criado como parte do meu aprendizado em arquitetura de computadores.
